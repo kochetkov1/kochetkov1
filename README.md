@@ -6,4 +6,5 @@
 - :telescope: С интересом изучаю фронтенд.
 - :seedling: Читаю книги о программировании.
 - :zap: Хочу работать над серьезными продуктами.
-- :mailbox: Связаться со мной: ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) kochetkov111
+- :mailbox: Связаться со мной: 
+       ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) kochetkov111
